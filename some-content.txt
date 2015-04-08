@@ -1,3 +1,5 @@
 This is the first file we're going to use and practice on, for our git version control system example.
 
 Author: Justine Batiforra
+
+Test GUI
