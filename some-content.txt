@@ -1,1 +1,1 @@
-this is our first file to use and practice for git version control system.
+This is the first file we're going to use and practice on, for our git version control system example.
